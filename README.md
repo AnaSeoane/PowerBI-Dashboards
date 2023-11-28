@@ -4,6 +4,15 @@ Welcome to our Power BI Dashboards repository! In this repository, you'll find m
 
 ## Current Projects
 
+### IBM Certificate Project
+Inside the `IBM Certificate Project` folder, you'll find a specific project related to [Marketing Campaign Dataset](https://www.kaggle.com/datasets/rodsaldanha/arketing-campaign/). This project includes:
+
+- **[AnaSeoaneRuiz-Proyect.pbix](AnaSeoaneRuiz-Proyect.pbix)**: The Power BI file containing the dashboard created to obtain the Datahack+IBM certificate.
+
+- **[data](IBM_Certificate_Project/data)**: This folder contains the data sources used by the Power BI dashboard. Here you can find data files or links to databases used to generate the report.
+
+- **[images](IBM_Certificate_Project/images)**: This folder stores images related to the project, such as custom visuals or visual resources used in the report.
+
 ### Tractchun - IT Tickets
 Inside the `Tractchun_IT_Tickets` folder, you'll find a specific project related to IT ticket tracking. This project includes:
 
