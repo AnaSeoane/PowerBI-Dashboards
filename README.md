@@ -46,6 +46,18 @@ __
 
 ## Proyectos Actuales
 
+# Proyecto de Certificación IBM y Datahack - Análisis de Marketing
+
+Este repositorio contiene el proyecto desarrollado para obtener la certificación conjunta de IBM y Datahack, basado en el conjunto de datos de campañas de marketing disponible en [Kaggle](https://www.kaggle.com/datasets/rodsaldanha/arketing-campaign/).
+
+
+- **[AnaSeoaneRuiz-Proyect.pbix](AnaSeoaneRuiz-Proyect.pbix)**: The Power BI file containing the dashboard created to obtain the Datahack+IBM certificate.
+
+- **[data](IBM_Certificate_Project/data)**: This folder contains the data sources used by the Power BI dashboard. Here you can find data files or links to databases used to generate the report.
+
+- **[images](IBM_Certificate_Project/images)**: This folder stores images related to the project, such as custom visuals or visual resources used in the report.
+
+
 ### Tractchun - IT Tickets
 Dentro de la carpeta `Tractchun_IT_Tickets`, encontrarás un proyecto específico relacionado con el seguimiento de tickets de IT. Este proyecto incluye:
 
